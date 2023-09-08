@@ -1,0 +1,20 @@
+.header,.hero,.body,.bar, .footer{
+	background-color: #393053;
+}
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+.box{
+	margin-bottom: 10px;
+	min-height: 60px;
+	border: 5px solid #F94A29;
+	background-color: #C92C6D;
+	font-size: 30px;
+	color: whitesmoke;
+}
+.gray{
+	background-color: #3A98B9;
+}
+.yellow{
+	background-color: greenyellow;
